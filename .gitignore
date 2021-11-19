@@ -1,0 +1,5 @@
+Webscraping_Practice\web_scraper_env
+*/.ipynb_checkpoints
+/.vscode
+/.idea
+.DS_Store
